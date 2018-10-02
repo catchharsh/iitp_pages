@@ -1,6 +1,6 @@
 # IITP_Social_Pages
 
-[!- [Piyush Chauhan](githib.com/piyushchuahn) - [View Contributions](https://github.com/piyushchauhan/iitp_pages/commits?author=piyushchauhan)
+- [Piyush Chauhan](githib.com/piyushchuahn) - [View Contributions](https://github.com/piyushchauhan/iitp_pages/commits?author=piyushchauhan)
 [Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 
